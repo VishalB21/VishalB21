@@ -9,12 +9,12 @@
 I am BCA Student love turning ideas into code and continuously improving my skills in Python, Web Development, Java and Data Technologie.  
 Always curious, always learning 📚
 
-# 🛠 Skills
+## 🛠 Skills
 
-**Languages:** C, C++, Python, Java
-**Web:** HTML, CSS, Javascript
-**Databases:** SQL, PostgreSQL
-**Tools:** VS Code, GitHub
+- **Languages:** C, C++, Python, Java
+- **Web:** HTML, CSS, Javascript
+- **Databases:** SQL, PostgreSQL
+- **Tools:** VS Code, GitHub
 
 # 🎯 Goals
 
