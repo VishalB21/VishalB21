@@ -1,7 +1,6 @@
 # Hi👋 I'm Vishal Belokar
 
-🎓 BCA Student | 💻 AI And Software Enthusiast
-🚀 Passionate about building real-world projects and exploring AI  
+🎓 BCA Student | 💻 AI And Software Enthusiast |🚀 Passionate about building real-world projects and exploring AI  
 📍 Pune, India
 
 
