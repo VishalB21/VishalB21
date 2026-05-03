@@ -11,10 +11,10 @@ Always curious, always learning 📚
 
 # 🛠 Skills
 
-Languages: C, C++, Python, Java
-Web: HTML, CSS, Javascript
-Databases: SQL, PostgreSQL
-Tools: VS Code, GitHub
+-Languages: C, C++, Python, Java
+-Web: HTML, CSS, Javascript
+-Databases: SQL, PostgreSQL
+-Tools: VS Code, GitHub
 
 # 🎯 Goals
 
