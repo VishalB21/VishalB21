@@ -31,6 +31,7 @@ Long-Term Goals
 # 📌 Projects
 
 - Password Manager (Python GUI)
+
   Python-based password generator & manager using Tkinter and encryption
 
 🔗 https://github.com/AkshatSaxena-18/Python-Mini-Project-for-college-Assignments
