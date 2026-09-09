@@ -36,6 +36,7 @@ Long-Term Goals
 🔗 https://github.com/AkshatSaxena-18/Python-Mini-Project-for-college-Assignments
 
 - Qr Based Attendance System.
+
    A Flask-based attendance management system that uses QR codes for fast student check-in, live session monitoring for faculty, and centralized administration for courses and users.
 
 🔗 https://github.com/VishalB21/QR-Based-Attendance-System.git  
